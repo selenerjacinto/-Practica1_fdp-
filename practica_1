@@ -1,1 +1,27 @@
+Algoritmo cualitativo 
+Formular el problema 
+Hacerme una tasa de café negro tibió   con dos cucharas de café soluble  y dos de azúcar.
+Análisis 
+Entrada
+Una tasa de capacidad 250ml de agua ,1 vaso con agua tibia de 200ml  ,dos cucharadas cafeteras de café soluble, dos cucharadas cafeteras de azúcar, una cuchara cafetera. Manos desinfectadas y limpias 
+Restricciones 
+ Tener todos los materiales necesarios  y tener las manos desinfectadas y limpias 
+Salida
+Una tasa de café negro soluble con dos de azúcar tibio 
 
+DISEÑO
+1 inicio
+2 ¿se tienen todos los ingredientes y materiales ?
+      Si : continúa con el paso 3
+     No: Seguir con el paso 9
+ 3Tener las manos desinfectadas y limpias 
+4 ¿ Tienes  las manos desinfectadas y limpias?
+          Si : Seguir con el paso 5
+         No: Seguir con el paso 9
+ 5 agregar las dos cucharadas cafeteras de café soluble a la tasa de 250ml
+6 agregar las dos cucharadas cafeteras de azúcar a la tasa de 250ml con las dos cucharadas cafeteras de café soluble 
+ 7 vacear la tasa de 200ml de agua tibia a la tasa de 250ml con las dos cucharas cafeteras de café y las dos cucharadas cafeteras de azúcar
+8  revolver la taza de 250ml que contiene el azúcar y el café soluble  con la cuchara  cafetera  hasta que esté todo disuelto. Pasar al 10 
+9 No puedes preparar el café por falta de ingredientes o material
+10 Fin
+CRUZ Alfonso F
