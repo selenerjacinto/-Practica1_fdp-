@@ -25,3 +25,28 @@ DISEÑO
 9 No puedes preparar el café por falta de ingredientes o material
 10 Fin
 CRUZ Alfonso F
+
+
+
+Algoritmo 2
+Preparar un vaso mediano de licuado de plátano con azúcar y leche. 
+Análisis
+Entrada: Una licuadora, un cuchillo, dos plátanos grandes, 3 cucharas soperas de azúcar, dos tazas de leche fría.
+Restricción: Que se tengan todos los ingredientes
+Salida: Un vaso mezclado de leche, plátano y azúcar.
+Diseño
+1.	Inicio
+2.	¿Se tienen todos los ingredientes?
+-Si, ir al paso 3
+-No, ir al paso 7
+3.	Quitarle la cascara los dos plátanos, con un chuchillo partir los plátanos en pedazos de 2cm.
+4.	Agregar una taza de leche fría a la licuadora.
+-	¿Son dos tazas?
+-	Si, ir al paso 3
+-	No, ir al paso 2
+5.	Agregar los pedazos de plátanos a la licuadora y las 3 cucharas soperas de azúcar
+5. Cerrar la licuadora y encenderla, mantenerla prendida por 30s.
+6. Verter la mezcla en el vaso mediano.
+7. No se puede preparar el licuado
+8. Fin
+Rafael Jacinto A
